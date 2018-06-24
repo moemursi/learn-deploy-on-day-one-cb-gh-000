@@ -4,7 +4,7 @@ There is no better way to feel like a developer than by actually becoming one, w
 
 We have already created a template, but you need to use your Git, HTML and CSS skills to submit an updated version of the site with your information. Here we go!
 
-## Requirements
+## Requiremdents
 
 You'll need the following information about yourself:
 
